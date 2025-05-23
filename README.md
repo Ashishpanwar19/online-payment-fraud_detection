@@ -30,6 +30,7 @@ This project is an online payment fraud detection system designed to identify an
 ### Prerequisites
 
 - Python 3.8+
+- Flask
 - PostgreSQL 12+
 - Redis
 - Node.js (for frontend)
